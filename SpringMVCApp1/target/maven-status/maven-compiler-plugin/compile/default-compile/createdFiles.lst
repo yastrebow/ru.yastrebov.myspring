@@ -1,0 +1,3 @@
+ru\yastrebov\myspring\config\SpringConfig.class
+ru\yastrebov\myspring\config\MySpringMvcDispatcherServletInitializer.class
+ru\yastrebov\myspring\HelloController.class
